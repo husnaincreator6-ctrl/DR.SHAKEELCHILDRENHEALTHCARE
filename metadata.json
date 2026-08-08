@@ -1,0 +1,6 @@
+{
+  "name": "Dr. Shakeel Anjum Ramay - Child Healthcare Clinic",
+  "description": "Professional Children's Healthcare website for Dr. Shakeel Anjum Ramay in Okara & Gamber with online appointment booking, clinic schedules, and WhatsApp contact.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
